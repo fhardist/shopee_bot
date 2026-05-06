@@ -50,9 +50,13 @@ python main.py
 Bot akan memantau waktu secara real-time setiap 0.01 detik. Begitu menyentuh SALE_TIME, bot otomatis mengklik tombol "Beli" dan masuk ke halaman Checkout.
 
 💡 Tips & Trik Penting
+
 ⚡ Taktik Hybrid: Jika di PC muncul pesan "Lanjutkan di Aplikasi", segera buka HP Anda. Cek menu Keranjang atau Pesanan Saya, lalu selesaikan pembayaran di aplikasi HP.
+
 🛡️ Verifikasi Manual: Jika muncul Captcha, jangan panik. Selesaikan verifikasi secara manual di browser agar sistem menganggap aktivitas dilakukan oleh manusia.
+
 🔄 Ganti Akun: Untuk login dengan akun baru, hapus folder user_data di dalam direktori project, lalu ulangi proses dari Langkah 1.
+
 📂 Shortcut CMD: Cara cepat buka CMD di folder: Klik pada address bar Windows Explorer, hapus isinya, ketik cmd, lalu tekan Enter.
 
 ⚠️ Disclaimer
