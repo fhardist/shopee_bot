@@ -19,3 +19,15 @@ Buka Terminal atau CMD, lalu jalankan perintah berikut:
 ```bash
 pip install playwright playwright-stealth python-dotenv
 playwright install chromium
+
+---
+
+# 🚀 Cara Menjalankan Bot
+Langkah 1: Membuka Chrome via Debug Mode
+Bot ini menempel pada sesi Chrome yang sudah login agar lebih aman dari deteksi sistem.
+
+Tutup semua jendela Chrome yang sedang terbuka.
+
+Buka CMD, masuk ke direktori project (Contoh: D:\shopee_bot).
+
+Jalankan perintah ini untuk membuka Chrome khusus debug:
