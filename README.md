@@ -60,7 +60,7 @@ Bot akan memantau waktu secara real-time setiap 0.01 detik. Begitu menyentuh SAL
 📂 Shortcut CMD: Cara cepat buka CMD di folder: Klik pada address bar Windows Explorer, hapus isinya, ketik cmd, lalu tekan Enter.
 
 
-
+| :--- |
 | ⚠️ Disclaimer
 Script ini dibuat untuk tujuan pembelajaran (educational purposes). Penggunaan bot untuk memanipulasi sistem transaksi dapat melanggar Syarat & Ketentuan pihak ketiga. Risiko akun dibatasi (banned) atau pesanan dibatalkan ditanggung sepenuhnya oleh pengguna. |
 | :--- |
