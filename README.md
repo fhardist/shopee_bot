@@ -64,3 +64,24 @@ Bot akan memantau waktu secara real-time setiap 0.01 detik. Begitu menyentuh SAL
 ⚠️ Disclaimer
 Script ini dibuat untuk tujuan pembelajaran (educational purposes). Penggunaan bot untuk memanipulasi sistem transaksi dapat melanggar Syarat & Ketentuan pihak ketiga. Risiko akun dibatasi (banned) atau pesanan dibatalkan ditanggung sepenuhnya oleh pengguna. |
 | :--- |
+
+<table style="background-color: #f6f8fa; width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #eaecef;">
+      <th style="padding: 10px; border: 1px solid #dfe2e5; text-align: center;">⚠️ DISCLAIMER</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 15px; border: 1px solid #dfe2e5; line-height: 1.6;">
+        Script ini dibuat murni untuk <b>tujuan pembelajaran (educational purposes)</b>. Penggunaan bot untuk memanipulasi sistem transaksi dapat melanggar Syarat & Ketentuan pihak ketiga. Segala bentuk risiko seperti:
+        <ul>
+          <li>Akun dibatasi atau diblokir (banned)</li>
+          <li>Pesanan dibatalkan secara otomatis</li>
+          <li>Kegagalan sistem lainnya</li>
+        </ul>
+        Ditanggung sepenuhnya oleh <b>pengguna</b>. Penulis tidak bertanggung jawab atas kerugian yang ditimbulkan dari penggunaan script ini.
+      </td>
+    </tr>
+  </tbody>
+</table>
